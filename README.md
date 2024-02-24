@@ -5,7 +5,7 @@ With 7+ years of experience in software development and engineering, I have gain
 
   Tech Stack: 
 
-- Golang, C#, Java
+- C#, Java, Golang
 - AWS Cloud Services EC2, Lambda, EKS, SNS, SQS, S3, RDS & DocumentDb
 - Google Cloud BigQuery
 - Datadog & AWS Cloudwatch & Grafana
