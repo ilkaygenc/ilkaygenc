@@ -1,6 +1,9 @@
 ### Hi 👋
 
-With 7+ years of experience in software development and engineering, I have gained extensive expertise in technical backend roles. I hold a bachelor's degree in Management Information Systems, and I have worked with industry-leading companies and with global teams. As a Software Developer, I aim to further enhance my skills and continue progressing in this direction throughout my career.
+With 8+ years of experience in software development and engineering, I have gained extensive expertise in
+technical backend roles. I hold a bachelor's degree in Management Information Systems, and I have worked
+with industry-leading companies and with global teams. As a Senior Software Developer or Lead, I aim to
+further enhance my skills and continue progressing in this direction throughout my career.
 
 
   Tech Stack: 
